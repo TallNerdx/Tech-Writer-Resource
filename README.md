@@ -1,17 +1,4 @@
-![QW LinkedIn banner (7)](https://github.com/user-attachments/assets/41af61d9-1866-4b90-b7fe-9d6bd0e00de4)
 
-
-# The `6-Figure Tech Writer` Resource Hub ⭐📄
-
-Welcome! 
-
-Here is the current roadmap for this growing Resource Hub. Please feel free to fork this repo and open a pull request if you'd like to suggest additional resources or topics.
-
-Happy documenting,
-
-Quetzalli
-
-```
 Tech-Writing-Resource-Hub-Roadmap/
 │
 ├── README.md                    # Overview of the repo and how to use it
